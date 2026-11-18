@@ -12,6 +12,10 @@ I’m building projects, tinkering and learning continuously, and sharing code h
 - 💻 Interested in data analysis
 - 📫 Explore my repositories to see what I'm working on
 
+## Pinned Repositories
+
+
+
 ## 🛠️ Technical Toolkit
 
 - Git and GitHub
