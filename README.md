@@ -14,7 +14,10 @@ I’m building projects, tinkering and learning continuously, and sharing code h
 
 ## Pinned Repositories
 
-
+- [Excel AI Dynamic Financial Summary](https://github.com/jfavreau910/excel_ai_dynamic_financial_summary_nimbus_cloud_solutions) — I built an Excel dynamic financial summary, KPI dashboard, and AR command center from scratch using AI.
+- [Cyclistic Bike-Share Analysis](https://github.com/jfavreau910/sales_and_marketing_strategies_in_R_riding_towards_success_analysis) — Riding Towards Membership: A Cyclistic Bike-Share Analysis Case Study.
+- [GameZone Sales Analysis and Strategy](https://github.com/jfavreau910/sales_data_analysis_strategy_GameZone) — Data analysis, sales strategy, and Board of Directors presentation.
+- [PAN Validation SQL](https://github.com/jfavreau910/pan-validation-sql) — PAN number cleaning and validation.
 
 ## 🛠️ Technical Toolkit
 
