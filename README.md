@@ -5,19 +5,21 @@ jfavreau910_profile-repository
 
 Welcome to my GitHub profile!
 
-I’m building projects, learning continuously, and sharing code here on GitHub.
+I’m building projects, tinkering and learning continuously, and sharing code here on GitHub.
 
 ## 🚀 About Me
 
 - 💻 Interested in data analysis
 - 📫 Explore my repositories to see what I'm working on
 
-## 🛠️ Skills
+## 🛠️ Technical Toolkit
 
 - Git and GitHub
-- Software development
-- Problem solving
-
+- Microsoft Office Suite
+- AI
+- SQL
+- Python
+- R
 
 ## 🌐 Connect
 
